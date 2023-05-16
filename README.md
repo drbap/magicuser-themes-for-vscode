@@ -12,7 +12,8 @@
 # Themes included:
 
 ✨ **DARK THEMES**: 
-- MagicUser 
+- MagicUser
+- MagicUser Night
 - MagicUser Purple 
 - MagicUser Purple Night
 - MagicUser Space 
