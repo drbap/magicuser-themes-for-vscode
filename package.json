@@ -1,0 +1,72 @@
+{
+	"name": "magicuser-color-themes",
+	"displayName": "MagicUser",
+	"description": "MagicUser themes for your VS Code editor. Contains 8 themes for your daily coding activities. Consistent syntax highlighting (light/dark themes).",
+	"version": "1.0.0",
+	"publisher": "BernardoPires",
+	"engines": {
+		"vscode": "^1.50.0"
+	},
+	"icon": "icon.png",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/drbap/magicuser-themes-for-vscode"
+	},
+	"categories": [
+		"Themes"
+	],
+	"keywords": [
+		"MagicUser",
+		"Light Theme",
+		"Dark Theme",
+		"Night Theme",
+		"Light Gray Theme",
+		"Professional themes",
+		"Professional Light Theme"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "MagicUser",
+				"uiTheme": "vs-dark",
+				"path": "./themes/MagicUser-color-theme.json"
+			},
+			{
+				"label": "MagicUser Night",
+				"uiTheme": "vs-dark",
+				"path": "./themes/MagicUser-Night-color-theme.json"
+			},
+			{
+				"label": "MagicUser Purple",
+				"uiTheme": "vs-dark",
+				"path": "./themes/MagicUser-Purple-color-theme.json"
+			},
+			{
+				"label": "MagicUser Purple Night",
+				"uiTheme": "vs-dark",
+				"path": "./themes/MagicUser-Purple-Night-color-theme.json"
+			},
+			{
+				"label": "MagicUser Space",
+				"uiTheme": "vs-dark",
+				"path": "./themes/MagicUser-Space-color-theme.json"
+			},
+			{
+				"label": "MagicUser Space Night",
+				"uiTheme": "vs-dark",
+				"path": "./themes/MagicUser-Space-Night-color-theme.json"
+			},
+			{
+				"label": "MagicUser Light",
+				"uiTheme": "vs",
+				"path": "./themes/MagicUser-Light-color-theme.json"
+			},
+			{
+				"label": "MagicUser Light Gray",
+				"uiTheme": "vs",
+				"path": "./themes/MagicUser-Light-Gray-color-theme.json"
+			}
+		]
+	},
+	"license": "MIT"
+}
