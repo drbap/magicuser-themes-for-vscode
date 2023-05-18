@@ -158,9 +158,9 @@
 		"editorGutter.deletedBackground": "#c30028",
 		"editorGutter.modifiedBackground": "#b9b52f",
 		"list.errorForeground": "#c30028",
-    "list.warningForeground": "#f15353",
-    "gitDecoration.modifiedResourceForeground": "#979700",
-    "gitDecoration.untrackedResourceForeground": "#c37f7f",
+		"list.warningForeground": "#f15353",
+		"gitDecoration.modifiedResourceForeground": "#979700",
+		"gitDecoration.untrackedResourceForeground": "#c37f7f",
 		"gitDecoration.addedResourceForeground": "#27c35f",
 		"gitDecoration.conflictingResourceForeground": "#ff53b3",
 		"gitDecoration.deletedResourceForeground": "#d31f1f",
@@ -190,7 +190,14 @@
 			}
 		},
 		{
-			"scope": "keyword.operator.class, constant.other, source.php.embedded.line",
+			"scope": "constant.other.php, constant.other.class.php, variable.other.object.js",
+			"settings": {
+				"foreground": "#004a82",
+				"fontStyle": "bold"
+			}
+		},
+		{
+			"scope": "keyword.operator.class, source.php.embedded.line",
 			"settings": {
 				"foreground": "#000",
 				"fontStyle": ""
@@ -225,7 +232,7 @@
 			}
 		},
 		{
-			"scope": "constant.other.symbol, markup.inserted.git_gutter",
+			"scope": "markup.inserted.git_gutter",
 			"settings": {
 				"foreground": "#c3F1A8",
 				"fontStyle": ""
@@ -247,14 +254,13 @@
 		{
 			"scope": "support.variable",
 			"settings": {
-				"foreground": "#0000AE",
-				"fontStyle": "bold italic"
+				"fontStyle": "italic"
 			}
 		},
 		{
 			"scope": "keyword, storage, storage.type, entity.name.tag.css, keyword.other.special-method.dockerfile",
 			"settings": {
-				"foreground": "#D372FF",
+				"foreground": "#c300f1",
 				"fontStyle": "bold"
 			}
 		},
@@ -465,7 +471,7 @@
 			"scope": "variable,variable.parameter, meta.function-call.arguments.python, meta.var.expr.js",
 			"settings": {
 				"foreground": "#000",
-				"fontStyle": ""
+				"fontStyle": "bold"
 			}
 		},
 		{
@@ -481,7 +487,7 @@
 			}
 		},
 		{
-			"scope": "variable.language.special.self.python, variable.parameter.function.language.special.self.python, variable.language.this.js",
+			"scope": "variable.language.special.self.python, variable.parameter.function.language.special.self.python, variable.language.this.js, variable.language.this.php, punctuation.definition.variable.php",
 			"settings": {
 				"foreground": "#0088f1",
 				"fontStyle": "bold"
@@ -509,7 +515,7 @@
 			}
 		},
 		{
-			"scope": "variable.other.property.js, meta.object-literal.key.js",
+			"scope": "variable.other.property.js",
 			"settings": {
 				"foreground": "#0088f1",
 				"fontStyle": "bold"
@@ -526,13 +532,6 @@
 			"settings": {
 				"foreground": "#c300f1",
 				"fontStyle": "bold"
-			}
-		},
-		{
-			"scope": "support.variable",
-			"settings": {
-				"foreground": "#00B3B3",
-				"fontStyle": "bold italic"
 			}
 		},
 		{
@@ -656,13 +655,6 @@
 			}
 		},
 		{
-			"scope": "constant.other",
-			"settings": {
-				"foreground": "#a45fc3",
-				"fontStyle": "bold"
-			}
-		},
-		{
 			"scope": "entity.other.attribute-name.pseudo-class.css, entity.other.attribute-name.pseudo-element.css",
 			"settings": {
 				"foreground": "#00a3FF"
@@ -713,6 +705,13 @@
 			"scope": "variable.parameter.keyframe-list.css",
 			"settings": {
 				"foreground": "#00c8c8",
+				"fontStyle": "bold"
+			}
+		},
+		{
+			"scope": "punctuation.separator, punctuation.terminator, keyword.operator.class.php",
+			"settings": {
+				"foreground": "#c300F1",
 				"fontStyle": "bold"
 			}
 		},
@@ -927,7 +926,43 @@
 				"keyword.operator.wordlike"
 			],
 			"settings": {
-				"foreground": "#0000ae"
+				"foreground": "#c300f1"
+			}
+		},
+		{
+			"scope": [
+				"keyword.control.import.include.php",
+				"meta.include.php",
+				"meta.embedded.line.php",
+				"text.html.php",
+			],
+			"settings": {
+				"foreground": "#00ae00"
+			}
+		},
+		{
+			"scope": [
+				"variable.other.object.js",
+				"meta.function-call.js",
+				"meta.object.member.js",
+				"meta.objectliteral.js",
+				"meta.var.expr.js"
+			],
+			"settings": {
+				"foreground": "#0000ae",
+				"fontStyle": "bold"
+			}
+		},
+		{
+			"scope": [
+				"meta.object-literal.key.js",
+				"meta.object.member.js",
+				"meta.objectliteral.js",
+				"meta.var.expr.js"
+			],
+			"settings": {
+				"foreground": "#007fb3",
+				"fontStyle": "bold"
 			}
 		},
 		{

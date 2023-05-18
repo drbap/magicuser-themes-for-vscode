@@ -122,10 +122,10 @@
 		"checkbox.selectBorder": "#007fff",
 		"editorBracketHighlight.foreground1": "#d372ff",
 		"editorBracketHighlight.foreground2": "#18a3ff",
-		"editorBracketHighlight.foreground3": "#f1a300",
+		"editorBracketHighlight.foreground3": "#ffd700",
 		"editorBracketHighlight.foreground4": "#d372ff",
 		"editorBracketHighlight.foreground5": "#18a3ff",
-		"editorBracketHighlight.foreground6": "#f1a300",
+		"editorBracketHighlight.foreground6": "#ffd700",
 		"searchEditor.findMatchBorder": "#00ffff",
 		"searchEditor.findMatchBackground": "#00ffff88",
 		"minimap.findMatchHighlight": "#d372ff",
@@ -885,6 +885,73 @@
 			"settings": {
 				"foreground": "#b3b300",
 				"fontStyle": "bold"
+			}
+		},
+		{
+			"scope": [
+				"keyword.operator.new",
+				"keyword.operator.expression",
+				"keyword.operator.cast",
+				"keyword.operator.sizeof",
+				"keyword.operator.alignof",
+				"keyword.operator.typeid",
+				"keyword.operator.alignas",
+				"keyword.operator.instanceof",
+				"keyword.operator.logical.python",
+				"keyword.operator.wordlike"
+			],
+			"settings": {
+				"foreground": "#c300f1"
+			}
+		},
+		{
+			"scope": [
+				"keyword.control.import.include.php",
+				"meta.include.php",
+				"meta.embedded.line.php",
+				"text.html.php",
+			],
+			"settings": {
+				"foreground": "#48f148"
+			}
+		},
+		{
+			"scope": [
+				"variable.other.object.js",
+				"meta.function-call.js",
+				"meta.object.member.js",
+				"meta.objectliteral.js",
+				"meta.var.expr.js"
+			],
+			"settings": {
+				"foreground": "#7373ff",
+				"fontStyle": ""
+			}
+		},
+		{
+			"scope": [
+				"meta.object-literal.key.js",
+				"meta.object.member.js",
+				"meta.objectliteral.js",
+				"meta.var.expr.js"
+			],
+			"settings": {
+				"foreground": "#9aacce",
+				"fontStyle": ""
+			}
+		},
+		{
+			"scope": "variable.language.this.php, punctuation.definition.variable.php",
+			"settings": {
+				"foreground": "#0088f1",
+				"fontStyle": ""
+			}
+		},
+		{
+			"scope": "keyword.operator.class.php",
+			"settings": {
+				"foreground": "#d372ff",
+				"fontStyle": ""
 			}
 		}
 	]
