@@ -62,7 +62,7 @@
 		"menu.foreground": "#d3d3d3",
 		"menu.selectionBackground": "#003388",
 		"menu.separatorBackground": "#003357",
-		"menubar.selectionBackground": "#003388",
+		"menubar.selectionBackground": "#002970",
 		"minimap.selectionHighlight": "#003788",
 		"peekViewResult.background": "#001c40",
 		"pickerGroup.foreground": "#bcdbff",

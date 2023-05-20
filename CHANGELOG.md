@@ -1,5 +1,8 @@
 # Changelog
 
+## [1.2.2] - 2023-05-20
+- MagicUser theme menubar hover
+
 ## [1.2.1] - 2023-05-20
 - Small adjustments to MagicUser theme - hovers/suggestions
 - CSS: id color (8 themes)
