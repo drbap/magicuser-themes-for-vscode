@@ -112,7 +112,7 @@
 		"statusBar.debuggingBackground": "#480048",
 		"statusBar.noFolderBackground": "#003388",
 		"statusBarItem.errorBackground": "#c72e0f",
-		"statusBarItem.remoteBackground": "#007fff",
+		"statusBarItem.remoteBackground": "#0072d3",
 		"statusBarItem.remoteForeground": "#f1f1f1",
 		"tab.activeForeground": "#000",
 		"tab.inactiveForeground": "#828282",
@@ -159,10 +159,10 @@
 		"list.errorForeground": "#c30028",
 		"list.warningForeground": "#f15353",
 		"gitDecoration.modifiedResourceForeground": "#979700",
-		"gitDecoration.untrackedResourceForeground": "#c37f7f",
+		"gitDecoration.untrackedResourceForeground": "#b83838",
 		"gitDecoration.addedResourceForeground": "#27c35f",
 		"gitDecoration.conflictingResourceForeground": "#ff53b3",
-		"gitDecoration.deletedResourceForeground": "#d31f1f",
+		"gitDecoration.deletedResourceForeground": "#f31f1f",
 		"gitDecoration.ignoredResourceForeground": "#a3a3a3",
 		"gitDecoration.renamedResourceForeground": "#979700",
 		"gitDecoration.stageDeletedResourceForeground": "#f30000",
@@ -660,16 +660,10 @@
 			}
 		},
 		{
-			"scope": "entity.other.attribute-name.id.css",
+			"scope": "entity.other.attribute-name.id.css, entity.other.attribute-name.class.css",
 			"settings": {
-				"foreground": "#f1a388",
+				"foreground": "#000",
 				"fontStyle": "bold"
-			}
-		},
-		{
-			"scope": "entity.other.attribute-name.class.css",
-			"settings": {
-				"foreground": "#000"
 			}
 		},
 		{

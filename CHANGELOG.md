@@ -1,5 +1,10 @@
 # Changelog
 
+## [1.2.1] - 2023-05-20
+- Small adjustments to MagicUser theme - hovers/suggestions
+- CSS: id color (8 themes)
+- Improved untracked files colors (light themes)
+
 ## [1.2.0] - 2023-05-20
 - TypeScript improved syntax highlighting (8 themes)
 - Java syntax highlighting adjustments

@@ -60,9 +60,9 @@
 		"list.inactiveSelectionBackground": "#001836",
 		"menu.background": "#001836",
 		"menu.foreground": "#d3d3d3",
-		"menu.selectionBackground": "#002248",
+		"menu.selectionBackground": "#003388",
 		"menu.separatorBackground": "#003357",
-		"menubar.selectionBackground": "#002248",
+		"menubar.selectionBackground": "#003388",
 		"minimap.selectionHighlight": "#003788",
 		"peekViewResult.background": "#001c40",
 		"pickerGroup.foreground": "#bcdbff",
@@ -70,14 +70,14 @@
 		"profileBadge.background": "#000",
 		"profileBadge.foreground": "#007fff",
 		"progressBar.background": "#bbdaffcc",
-		"quickInputList.focusBackground": "#002248",
+		"quickInputList.focusBackground": "#003388",
 		"sideBar.background": "#001122",
 		"sideBarSectionHeader.background": "#001122",
 		"statusBar.foreground": "#d3d3d3",
 		"statusBar.background": "#003388",
 		"statusBar.debuggingBackground": "#480048",
 		"statusBar.noFolderBackground": "#003388",
-		"statusBarItem.remoteBackground": "#007fff",
+		"statusBarItem.remoteBackground": "#0072d3",
 		"statusBarItem.remoteForeground": "#d8d8d8",
 		"tab.activeForeground": "#cfcfcf",
 		"tab.activeBorderTop": "#00a3ff",
@@ -630,13 +630,7 @@
 			}
 		},
 		{
-			"scope": "entity.other.attribute-name.id.css",
-			"settings": {
-				"foreground": "#f1a388"
-			}
-		},
-		{
-			"scope": "entity.other.attribute-name.class.css",
+			"scope": "entity.other.attribute-name.id.css, entity.other.attribute-name.class.css",
 			"settings": {
 				"foreground": "#d8d8d8"
 			}

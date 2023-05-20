@@ -77,7 +77,7 @@
 		"statusBar.background": "#181818",
 		"statusBar.debuggingBackground": "#480048",
 		"statusBar.noFolderBackground": "#181818",
-		"statusBarItem.remoteBackground": "#007fff",
+		"statusBarItem.remoteBackground": "#0072d3",
 		"statusBarItem.remoteForeground": "#d8d8d8",
 		"tab.activeForeground": "#cfcfcf",
 		"tab.activeBorderTop": "#007fff",
@@ -630,13 +630,7 @@
 			}
 		},
 		{
-			"scope": "entity.other.attribute-name.id.css",
-			"settings": {
-				"foreground": "#f1a388c8"
-			}
-		},
-		{
-			"scope": "entity.other.attribute-name.class.css",
+			"scope": "entity.other.attribute-name.id.css, entity.other.attribute-name.class.css",
 			"settings": {
 				"foreground": "#d8d8d8c8"
 			}
