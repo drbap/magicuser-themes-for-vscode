@@ -12,7 +12,7 @@
 # Themes included:
 
 ✨ **DARK THEMES**: 
-- MagicUser
+- MagicUser 
 - MagicUser Night
 - MagicUser Purple 
 - MagicUser Purple Night
@@ -45,6 +45,7 @@ This theme collection was tested for the following languages:
 - HTML
 - CSS - SCSS
 - JavaScript / JSX
+- TypeScript
 
 # Feedback
   
