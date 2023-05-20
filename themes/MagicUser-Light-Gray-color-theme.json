@@ -4,14 +4,14 @@
 		"titleBar.activeForeground": "#000",
 		"titleBar.inactiveForeground": "#000",
 		"activityBar.activeBorder": "#0072d3",
-		"activityBar.background": "#d8d8d8",
+		"activityBar.background": "#cfcfcf",
 		"activityBar.foreground": "#007fff",
 		"activityBar.inactiveForeground": "#00000048",
 		"activityBarBadge.background": "#0072d3",
 		"activityBarBadge.foreground": "#d8d8d8",
 		"badge.background": "#007fff",
 		"badge.foreground": "#f1f1f1",
-		"debugToolBar.background": "#480048",
+		"debugToolBar.background": "#f1f1f1",
 		"dropdown.background": "#fff",
 		"dropdown.foreground": "#000",
 		"editor.selectionHighlightBackground": "#f100f120",
@@ -29,8 +29,8 @@
 		"editorGroupHeader.border": "#18181800",
 		"editorGroupHeader.noTabsBackground": "#d8d8d8",
 		"editorGroupHeader.tabsBackground": "#d8d8d8",
-		"editorHoverWidget.background": "#f1f1f1",
-		"editorHoverWidget.border": "#f1f1f1",
+		"editorHoverWidget.background": "#dbdbdb",
+		"editorHoverWidget.border": "#d8d8d8",
 		"editorHoverWidget.statusBarBackground": "#e8e8e8",
 		"editorSuggestWidget.border": "#f1f1f1",
 		"editorSuggestWidget.focusHighlightForeground": "#0072d3",
@@ -123,7 +123,7 @@
 		"terminal.foreground": "#f1f1f1",
 		"terminal.inactiveSelectionBackground": "#e5ebf1",
 		"terminalCursor.foreground": "#0072d3",
-		"titleBar.activeBackground": "#d8d8d8",
+		"titleBar.activeBackground": "#cfcfcf",
 		"widget.border": "#d4d4d4",
 		"editorSuggestWidget.background": "#f3f3f3",
 		"input.placeholderForeground": "#787878",
@@ -213,21 +213,21 @@
 		{
 			"scope": "constant.numeric, constant.language, support.constant, constant.character, punctuation.section.embedded, keyword.other.unit,constant.language.python",
 			"settings": {
-				"foreground": "#ff8f00",
+				"foreground": "#f18f00",
 				"fontStyle": "bold"
 			}
 		},
 		{
-			"scope": "entity.name.class, entity.name.type, entity.name.namespace, entity.name.scope-resolution, support.type, support.class",
+			"scope": "entity.name,entity.name.class, entity.name.type, entity.name.namespace, entity.name.scope-resolution, support.type, support.class",
 			"settings": {
-				"foreground": "#ff8f00",
+				"foreground": "#f18800",
 				"fontStyle": "bold"
 			}
 		},
 		{
 			"scope": "entity.other.inherited-class.python",
 			"settings": {
-				"foreground": "#ff8f00",
+				"foreground": "#f18f00",
 				"fontStyle": "italic bold"
 			}
 		},
@@ -398,13 +398,13 @@
 		{
 			"scope": "entity.name.class",
 			"settings": {
-				"foreground": "#FF8800"
+				"foreground": "#f18800"
 			}
 		},
 		{
 			"scope": "support.type",
 			"settings": {
-				"foreground": "#FF8800"
+				"foreground": "#f18800"
 			}
 		},
 		{
@@ -477,7 +477,7 @@
 		{
 			"scope": "constant.language",
 			"settings": {
-				"foreground": "#FF8800"
+				"foreground": "#f18800"
 			}
 		},
 		{
@@ -711,7 +711,7 @@
 		{
 			"scope": "punctuation.separator, punctuation.terminator, keyword.operator.class.php",
 			"settings": {
-				"foreground": "#c300F1",
+				"foreground": "#c300f1",
 				"fontStyle": "bold"
 			}
 		},
@@ -732,7 +732,7 @@
 		{
 			"scope": "punctuation.section.embedded.begin.php, punctuation.section.embedded.end.php,",
 			"settings": {
-				"foreground": "#FF8800",
+				"foreground": "#f18800",
 				"fontStyle": "bold"
 			}
 		},
@@ -997,6 +997,41 @@
 			"scope": "entity.other.attribute-name.placeholder.css",
 			"settings": {
 				"foreground": "#a3a300",
+				"fontStyle": "bold"
+			}
+		},
+		{
+			"scope": "variable.language.this.ts,variable.other.object.ts",
+			"settings": {
+				"foreground": "#0088f1",
+				"fontStyle": "bold"
+			}
+		},
+		{
+			"scope": "punctuation.accessor.ts",
+			"settings": {
+				"foreground": "#c300f1",
+				"fontStyle": "bold"
+			}
+		},
+		{
+			"scope": "support.type.primitive.ts",
+			"settings": {
+				"foreground": "#3472c9",
+				"fontStyle": ""
+			}
+		},
+		{
+			"scope": "storage.modifier.import.java, storage.modifier.package.java",
+			"settings": {
+				"foreground": "#000",
+				"fontStyle": "bold"
+			}
+		},
+		{
+			"scope": "storage.type.java",
+			"settings": {
+				"foreground": "#ff8800",
 				"fontStyle": "bold"
 			}
 		}

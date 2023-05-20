@@ -953,6 +953,41 @@
 				"foreground": "#d372ff",
 				"fontStyle": ""
 			}
+		},
+		{
+			"scope": "variable.language.this.ts,variable.other.object.ts",
+			"settings": {
+				"foreground": "#0088f1",
+				"fontStyle": ""
+			}
+		},
+		{
+			"scope": "punctuation.accessor.ts",
+			"settings": {
+				"foreground": "#d372ff",
+				"fontStyle": "bold"
+			}
+		},
+		{
+			"scope": "support.type.primitive.ts",
+			"settings": {
+				"foreground": "#3472c9",
+				"fontStyle": ""
+			}
+		},
+		{
+			"scope": "storage.modifier.import.java, storage.modifier.package.java",
+			"settings": {
+				"foreground": "#d8d8d8",
+				"fontStyle": ""
+			}
+		},
+		{
+			"scope": "storage.type.java",
+			"settings": {
+				"foreground": "#ff8800",
+				"fontStyle": ""
+			}
 		}
 	]
 }
