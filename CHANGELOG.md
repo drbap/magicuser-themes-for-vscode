@@ -1,5 +1,16 @@
 # Changelog
 
+## [1.4.0] - 2023-05-27
+
+Added:
+- MagicUser Teal (dark theme)
+- MagicUser Teal Night (dark theme)
+- MagicUser Sea (light theme)
+- MagicUser Sun (light theme)
+
+Improvements:
+- peekViewEditor consistent colors (12 themes)
+
 ## [1.2.2] - 2023-05-20
 - MagicUser theme menubar hover
 

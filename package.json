@@ -1,8 +1,8 @@
 {
 	"name": "magicuser-color-themes",
 	"displayName": "MagicUser",
-	"description": "MagicUser themes for your VS Code editor. Contains 8 themes for your daily coding activities. Consistent syntax highlighting (light/dark themes).",
-	"version": "1.2.2",
+	"description": "MagicUser themes for your VS Code editor. Contains 12 themes for your daily coding activities. Consistent syntax highlighting (light/dark themes).",
+	"version": "1.4.0",
 	"publisher": "BernardoPires",
 	"engines": {
 		"vscode": "^1.50.0"
@@ -57,6 +57,16 @@
 				"path": "./themes/MagicUser-Space-Night-color-theme.json"
 			},
 			{
+				"label": "MagicUser Teal",
+				"uiTheme": "vs-dark",
+				"path": "./themes/MagicUser-Teal-color-theme.json"
+			},
+			{
+				"label": "MagicUser Teal Night",
+				"uiTheme": "vs-dark",
+				"path": "./themes/MagicUser-Teal-Night-color-theme.json"
+			},
+			{
 				"label": "MagicUser Light",
 				"uiTheme": "vs",
 				"path": "./themes/MagicUser-Light-color-theme.json"
@@ -65,8 +75,22 @@
 				"label": "MagicUser Light Gray",
 				"uiTheme": "vs",
 				"path": "./themes/MagicUser-Light-Gray-color-theme.json"
+			},
+			{
+				"label": "MagicUser Sea",
+				"uiTheme": "vs",
+				"path": "./themes/MagicUser-Sea-color-theme.json"
+			},
+			{
+				"label": "MagicUser Sun",
+				"uiTheme": "vs",
+				"path": "./themes/MagicUser-Sun-color-theme.json"
 			}
 		]
+	},
+	"galleryBanner": {
+		"color": "#002248",
+		"theme": "dark"
 	},
 	"license": "MIT"
 }
