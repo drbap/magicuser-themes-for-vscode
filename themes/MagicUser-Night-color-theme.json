@@ -144,7 +144,15 @@
 		"gitDecoration.renamedResourceForeground": "#b9b52f",
 		"gitDecoration.stageDeletedResourceForeground": "#f30000",
 		"gitDecoration.submoduleResourceForeground": "#f100f1",
-		"gitDecoration.stageModifiedResourceForeground": "#4fbf00"
+		"gitDecoration.stageModifiedResourceForeground": "#4fbf00",
+		"peekViewEditor.matchHighlightBackground": "#f100f158",
+		"peekViewEditor.matchHighlightBorder": "#f100f158",
+		"peekViewEditorGutter.background": "#000c18",
+		"peekViewEditor.background": "#000c18",
+		"peekViewResult.selectionBackground": "#003388",
+		"peekViewResult.matchHighlightBackground": "#f100f158",
+		"peekViewResult.lineForeground": "#f1f1f1",
+		"peekViewResult.selectionForeground": "#f1f1f1"
 	},
 	"tokenColors": [
 		{
@@ -209,7 +217,7 @@
 		{
 			"scope": "constant.other.color",
 			"settings": {
-				"foreground": "#99FFFFc8"
+				"foreground": "#33f1f1c8"
 			}
 		},
 		{

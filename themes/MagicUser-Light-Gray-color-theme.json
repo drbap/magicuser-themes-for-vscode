@@ -168,7 +168,15 @@
 		"gitDecoration.renamedResourceForeground": "#979700",
 		"gitDecoration.stageDeletedResourceForeground": "#f30000",
 		"gitDecoration.submoduleResourceForeground": "#f100f1",
-		"gitDecoration.stageModifiedResourceForeground": "#4fbf00"
+		"gitDecoration.stageModifiedResourceForeground": "#4fbf00",
+		"peekViewEditor.matchHighlightBackground": "#f100f158",
+		"peekViewEditor.matchHighlightBorder": "#f100f158",
+		"peekViewEditorGutter.background": "#e8e8e8",
+		"peekViewEditor.background": "#e8e8e8",
+		"peekViewResult.selectionBackground": "#0072d388",
+		"peekViewResult.matchHighlightBackground": "#f100f158",
+		"peekViewResult.lineForeground": "#000",
+		"peekViewResult.selectionForeground": "#000"
 	},
 	"tokenColors": [
 		{

@@ -134,9 +134,9 @@
 		"editorGutter.deletedBackground": "#c30028",
 		"editorGutter.modifiedBackground": "#b9b52f",
 		"list.errorForeground": "#c30028",
-    "list.warningForeground": "#f15353",
-    "gitDecoration.modifiedResourceForeground": "#b9b52f",
-    "gitDecoration.untrackedResourceForeground": "#c37f7f",
+		"list.warningForeground": "#f15353",
+		"gitDecoration.modifiedResourceForeground": "#b9b52f",
+		"gitDecoration.untrackedResourceForeground": "#c37f7f",
 		"gitDecoration.addedResourceForeground": "#27c35f",
 		"gitDecoration.conflictingResourceForeground": "#ff53b3",
 		"gitDecoration.deletedResourceForeground": "#d31f1f",
@@ -144,7 +144,15 @@
 		"gitDecoration.renamedResourceForeground": "#b9b52f",
 		"gitDecoration.stageDeletedResourceForeground": "#f30000",
 		"gitDecoration.submoduleResourceForeground": "#f100f1",
-		"gitDecoration.stageModifiedResourceForeground": "#4fbf00"
+		"gitDecoration.stageModifiedResourceForeground": "#4fbf00",
+		"peekViewEditor.matchHighlightBackground": "#f100f158",
+		"peekViewEditor.matchHighlightBorder": "#f100f158",
+		"peekViewEditorGutter.background": "#001122",
+		"peekViewEditor.background": "#001122",
+		"peekViewResult.selectionBackground": "#003388",
+		"peekViewResult.matchHighlightBackground": "#f100f158",
+		"peekViewResult.lineForeground": "#f1f1f1",
+		"peekViewResult.selectionForeground": "#f1f1f1"
 	},
 	"tokenColors": [
 		{
@@ -209,7 +217,7 @@
 		{
 			"scope": "constant.other.color",
 			"settings": {
-				"foreground": "#99FFFFc8"
+				"foreground": "#33f1f1c8"
 			}
 		},
 		{
