@@ -9,7 +9,7 @@
 
 - It contains **8 dark themes** and **4 light themes** for day/night use.
 
-# Themes included:
+## Themes included:
 
 ✨ **DARK THEMES**: 
 - MagicUser 
@@ -31,7 +31,7 @@
 
 Thank YOU for using it 👍. I hope you find one or more themes that make you more productive and help to bring new ideas, motivation and inspiration to your daily work/study.
 
-# Installation
+## Installation
 
 - Open **Visual Studio Code** -> **Extensions**
 
@@ -39,7 +39,7 @@ Thank YOU for using it 👍. I hope you find one or more themes that make you mo
 
 - Select it and click **Install** -> Set Theme
 
-# Supported Languages
+## Supported Languages
 
 This theme collection was tested for the following languages:
 - C, C++, C#
@@ -51,11 +51,11 @@ This theme collection was tested for the following languages:
 - JavaScript / JSX
 - TypeScript
 
-# Feedback
+## Feedback
   
 If you have any issues and/or suggestions, please submit an issue. I will try to answer as soon as possible. Thanks.
   
-# License and Acknowledgements
+## License and Acknowledgements
 
 MIT License ⓒ Bernardo Pires.
 
