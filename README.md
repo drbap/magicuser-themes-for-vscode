@@ -9,7 +9,7 @@
 
 - It contains **8 dark themes** and **4 light themes** for day/night use.
 
-- **Semantic highlighting** (light and dark modes)
+- **Semantic highlighting** (light and dark modes).
 
 ## Themes included:
 
