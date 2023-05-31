@@ -1,8 +1,8 @@
 {
 	"name": "magicuser-color-themes",
 	"displayName": "MagicUser",
-	"description": "MagicUser themes for your VS Code editor. Contains 12 themes for your daily coding activities. Consistent syntax highlighting (light/dark themes).",
-	"version": "1.4.0",
+	"description": "Contains 12 themes for your VS Code editor. Semantic highlighting (light/dark themes).",
+	"version": "1.5.0",
 	"publisher": "BernardoPires",
 	"engines": {
 		"vscode": "^1.50.0"

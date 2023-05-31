@@ -1,5 +1,14 @@
 # Changelog
 
+## [1.5.0] - 2023-05-31
+Added:
+- Semantic syntax highlighting (12 themes)
+
+Improvements:
+- Java and PHP: small adjustments
+- UI hovers: MagicUser Night and MagicUser Purple Night themes (improve visibility)
+- HTML: highlighting improvements (tag elements)
+
 ## [1.4.0] - 2023-05-27
 
 Added:
