@@ -254,7 +254,8 @@
 		{
 			"scope": "support.variable",
 			"settings": {
-				"fontStyle": "italic"
+				"foreground": "#000088",
+				"fontStyle": "bold"
 			}
 		},
 		{
