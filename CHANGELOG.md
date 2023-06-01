@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.5.1] - 2023-05-31
+
+Fixed:
+
+Light Themes
+- JavaScript: correct syntax highlight of array properties (consistent look: light and dark themes).
+
 ## [1.5.0] - 2023-05-31
 Added:
 - Semantic syntax highlighting (12 themes)
