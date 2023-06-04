@@ -5,9 +5,9 @@
 
 ![MagicUser Themes icon](https://raw.githubusercontent.com/drbap/magicuser-themes-for-vscode/main/images/magicuser_icon_small.png)
 
-✨ **MagicUser** is a collection of **12 themes** for Visual Studio Code aiming to create a pleasant environment for your coding activities with greater concentration and consistent syntax highlighting.
+✨ **MagicUser** is a collection of **14 themes** for Visual Studio Code aiming to create a pleasant environment for your coding activities with greater concentration and consistent syntax highlighting.
 
-- It contains **8 dark themes** and **4 light themes** for day/night use.
+- It contains **9 dark themes** and **5 light themes** for day/night use.
 
 - **Semantic highlighting** (light and dark modes).
 
@@ -16,6 +16,7 @@
 ✨ **DARK THEMES**: 
 - MagicUser 
 - MagicUser Night
+- MagicUser Night Neblina
 - MagicUser Purple 
 - MagicUser Purple Night
 - MagicUser Space 
@@ -26,12 +27,13 @@
 ✨ **LIGHT THEMES**:
 - MagicUser Light
 - MagicUser Light Gray
+- MagicUser Neblina
 - MagicUser Sea
 - MagicUser Sun
 
 **Note**: The **dark themes** have a dimmed version (**Night** version) to be used in dark environments and for those who like darker themes. Colors have been adjusted to maintain syntax highlighting consistency.
 
-Thank YOU for using it 👍. I hope you find one or more themes that make you more productive and help to bring new ideas, motivation and inspiration to your daily work/study.
+I hope you find one or more themes that help bring new ideas, motivation and inspiration to your daily work/study.
 
 ## Installation
 

@@ -1,5 +1,14 @@
 # Changelog
 
+## [1.6.0] - 2023-06-04
+
+Added:
+- New themes: MagicUser Neblina and MagicUser Night Neblina.
+
+Improvements:
+- Diff editor colors (dark and light themes).
+- Hover and selection adjustments to improve visibility.
+
 ## [1.5.1] - 2023-05-31
 
 Fixed:
