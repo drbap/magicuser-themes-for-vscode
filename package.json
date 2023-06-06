@@ -1,8 +1,8 @@
 {
 	"name": "magicuser-color-themes",
 	"displayName": "MagicUser",
-	"description": "Contains 14 themes for your VS Code editor. Semantic highlighting (light/dark themes).",
-	"version": "1.6.0",
+	"description": "Contains 15 themes for your VS Code editor. Semantic highlighting (light/dark themes).",
+	"version": "1.7.0",
 	"publisher": "BernardoPires",
 	"engines": {
 		"vscode": "^1.50.0"
@@ -40,6 +40,11 @@
 				"label": "MagicUser Night Neblina",
 				"uiTheme": "vs-dark",
 				"path": "./themes/MagicUser-Night-Neblina-color-theme.json"
+			},
+			{
+				"label": "MagicUser Path",
+				"uiTheme": "vs-dark",
+				"path": "./themes/MagicUser-Path-color-theme.json"
 			},
 			{
 				"label": "MagicUser Purple",

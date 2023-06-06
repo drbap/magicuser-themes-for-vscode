@@ -1,5 +1,14 @@
 # Changelog
 
+## [1.7.0] - 2023-06-06
+
+Added:
+- New theme: MagicUser Path
+
+Improvements:
+- MagicUser Light - improved hover colors (lists and menus).
+- MagicUser Night Neblina - improved colors (lists and statusbar).
+
 ## [1.6.0] - 2023-06-04
 
 Added:
