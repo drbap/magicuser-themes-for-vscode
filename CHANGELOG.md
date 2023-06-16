@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.8.0] - 2023-06-16
+Added:
+- New theme: MagicUser Light Blue
+
+Improvements:
+- Scrollbars: new colors/hovers.
+- Overview Ruler: git colors and other decorators.
+- C language - new colors for %d, %s.
+- JavaScript: object property color.
+- PHP: variable colors/super global variables.
+- Cursor colors (MagicUser, MagicUser Purple, MagicUser Teal themes).
+
 ## [1.7.0] - 2023-06-06
 
 Added:

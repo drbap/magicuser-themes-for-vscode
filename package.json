@@ -1,8 +1,8 @@
 {
 	"name": "magicuser-color-themes",
 	"displayName": "MagicUser",
-	"description": "Contains 15 themes for your VS Code editor. Semantic highlighting (light/dark themes).",
-	"version": "1.7.0",
+	"description": "Contains 16 themes for your VS Code editor. Semantic highlighting (light/dark themes).",
+	"version": "1.8.0",
 	"publisher": "BernardoPires",
 	"engines": {
 		"vscode": "^1.50.0"
@@ -17,12 +17,13 @@
 	],
 	"keywords": [
 		"MagicUser",
-		"Light Theme",
-		"Dark Theme",
-		"Night Theme",
-		"Light Gray Theme",
-		"Professional themes",
-		"Professional Light Theme"
+		"Light theme",
+		"Dark theme",
+		"Night theme",
+		"Light blue theme",
+		"Light gray theme",
+		"Professional theme",
+		"Professional light theme"
 	],
 	"contributes": {
 		"themes": [
@@ -80,6 +81,11 @@
 				"label": "MagicUser Light",
 				"uiTheme": "vs",
 				"path": "./themes/MagicUser-Light-color-theme.json"
+			},
+			{
+				"label": "MagicUser Light Blue",
+				"uiTheme": "vs",
+				"path": "./themes/MagicUser-Light-Blue-color-theme.json"
 			},
 			{
 				"label": "MagicUser Light Gray",
