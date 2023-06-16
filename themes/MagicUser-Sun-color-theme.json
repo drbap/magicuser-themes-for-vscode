@@ -6,7 +6,7 @@
 		"activityBar.foreground": "#007fff",
 		"activityBar.inactiveForeground": "#00000048",
 		"activityBarBadge.background": "#0072d3",
-		"activityBarBadge.foreground": "#d8d8d8",
+		"activityBarBadge.foreground": "#f1f1f1",
 		"badge.background": "#007fff",
 		"badge.foreground": "#f1f1f1",
 		"button.background": "#0072d3",
@@ -71,6 +71,17 @@
 		"editorIndentGuide.background": "#82820048",
 		"editorLineNumber.activeForeground": "#bfbf00",
 		"editorLineNumber.foreground": "#bfbf0072",
+		"editorOverviewRuler.addedForeground": "#00ff00a3",
+		"editorOverviewRuler.bracketMatchForeground": "#d372ffa3",
+		"editorOverviewRuler.deletedForeground": "#ff0000a3",
+		"editorOverviewRuler.errorForeground": "#ff0000f1",
+		"editorOverviewRuler.findMatchForeground": "#f100f155",
+		"editorOverviewRuler.modifiedForeground": "#cfcf00cd",
+		"editorOverviewRuler.rangeHighlightForeground": "#f100f100",
+		"editorOverviewRuler.selectionHighlightForeground": "#f1f1f100",
+		"editorOverviewRuler.warningForeground": "#ff7f00cd",
+		"editorOverviewRuler.wordHighlightForeground": "#f1f1f100",
+		"editorOverviewRuler.wordHighlightStrongForeground": "#f1f1f100",
 		"editorSuggestWidget.background": "#faf3bf",
 		"editorSuggestWidget.border": "#faf3bf",
 		"editorSuggestWidget.focusHighlightForeground": "#0072d3",
@@ -130,6 +141,9 @@
 		"quickInputList.focusBackground": "#0072d328",
 		"quickInputList.focusForeground": "#000",
 		"quickInputList.focusIconForeground": "#000",
+		"scrollbarSlider.background": "#00000022",
+		"scrollbarSlider.activeBackground": "#007fff48",
+		"scrollbarSlider.hoverBackground": "#007fff30",
 		"searchEditor.findMatchBackground": "#f100f143",
 		"searchEditor.findMatchBorder": "#0072d3",
 		"searchEditor.textInputBorder": "#faf3bf",
@@ -209,7 +223,7 @@
 			}
 		},
 		{
-			"scope": "source.php.embedded.line, source.php, constant.other.class.php",
+			"scope": "source.php, source.php.embedded.line, constant.other.class.php",
 			"settings": {
 				"foreground": "#000",
 				"fontStyle": ""
@@ -223,7 +237,7 @@
 			}
 		},
 		{
-			"scope": "constant.numeric, constant.language, support.constant, constant.character, punctuation.section.embedded, keyword.other.unit,constant.language.python, variable.language.wildcard.java, entity.name,entity.name.class, entity.name.type, entity.name.namespace, entity.name.scope-resolution, support.type, support.class",
+			"scope": "constant.numeric, constant.language, support.constant, constant.character, punctuation.section.embedded, keyword.other.unit,constant.language.python, variable.language.wildcard.java, entity.name,entity.name.class, entity.name.type, entity.name.namespace, entity.name.scope-resolution, support.type, support.class, constant.other.placeholder.c",
 			"settings": {
 				"foreground": "#f18800",
 				"fontStyle": "bold"
@@ -327,21 +341,21 @@
 			}
 		},
 		{
+			"scope": "token.debug-token",
+			"settings": {
+				"foreground": "#c365f1"
+			}
+		},
+		{
 			"scope": "token.warn-token",
 			"settings": {
-				"foreground": "#f7c33f"
+				"foreground": "#ffd348"
 			}
 		},
 		{
 			"scope": "token.error-token",
 			"settings": {
-				"foreground": "#f14848"
-			}
-		},
-		{
-			"scope": "token.debug-token",
-			"settings": {
-				"foreground": "#c365f1"
+				"foreground": "#ff4848"
 			}
 		},
 		{
@@ -355,33 +369,6 @@
 			"scope": "meta.embedded.assembly",
 			"settings": {
 				"foreground": "#0000f1"
-			}
-		},
-		{
-			"scope": "token.info-token",
-			"settings": {
-				"foreground": "#7299f1"
-			}
-		},
-		{
-			"scope": "token.warn-token",
-			"settings": {
-				"foreground": "#f1d348",
-				"fontStyle": "bold"
-			}
-		},
-		{
-			"scope": "token.error-token",
-			"settings": {
-				"foreground": "#ff4848",
-				"fontStyle": "bold"
-			}
-		},
-		{
-			"scope": "token.debug-token",
-			"settings": {
-				"foreground": "#b365ff",
-				"fontStyle": "bold"
 			}
 		},
 		{
@@ -411,9 +398,9 @@
 			}
 		},
 		{
-			"scope": "variable.language.special.self.python, variable.parameter.function.language.special.self.python, variable.language.this.js, variable.language.this.php, punctuation.definition.variable.php",
+			"scope": "variable.language.special.self.python, variable.parameter.function.language.special.self.python, variable.language.this.js, variable.language.this.php, punctuation.definition.variable.php, variable.other.php, variable.other.global.php, variable.other.global.safer.php, variable.language.this.ts",
 			"settings": {
-				"foreground": "#0088f1",
+				"foreground": "#0048a3",
 				"fontStyle": "bold"
 			}
 		},
@@ -444,9 +431,9 @@
 			}
 		},
 		{
-			"scope": "variable.other.property.js",
+			"scope": "variable.other.property.js, variable.other.object.property.js",
 			"settings": {
-				"foreground": "#005aa3",
+				"foreground": "#000082",
 				"fontStyle": "bold"
 			}
 		},
@@ -598,7 +585,7 @@
 			}
 		},
 		{
-			"scope": "punctuation.section.embedded.begin.php, punctuation.section.embedded.end.php, variable.other.global.php, variable.other.global.safer.php",
+			"scope": "punctuation.section.embedded.begin.php, punctuation.section.embedded.end.php",
 			"settings": {
 				"foreground": "#000",
 				"fontStyle": "bold"
@@ -849,13 +836,6 @@
 			"scope": "entity.other.attribute-name.placeholder.css",
 			"settings": {
 				"foreground": "#a3a300",
-				"fontStyle": "bold"
-			}
-		},
-		{
-			"scope": "variable.language.this.ts",
-			"settings": {
-				"foreground": "#0088f1",
 				"fontStyle": "bold"
 			}
 		},
