@@ -1,6 +1,6 @@
 # Changelog
 
-## [2.0.0] - 2023-06-18
+## [2.0.0] - 2023-06-17
 Added:
 - New themes: MagicUser Staff and MagicUser Veteran
 
