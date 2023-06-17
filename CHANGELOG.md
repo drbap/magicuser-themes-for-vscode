@@ -1,5 +1,9 @@
 # Changelog
 
+## [2.0.0] - 2023-06-18
+Added:
+- New themes: MagicUser Staff and MagicUser Veteran
+
 ## [1.8.0] - 2023-06-16
 Added:
 - New theme: MagicUser Light Blue

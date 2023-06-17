@@ -1,8 +1,8 @@
 {
 	"name": "magicuser-color-themes",
 	"displayName": "MagicUser",
-	"description": "Contains 16 themes for your VS Code editor. Semantic highlighting (light/dark themes).",
-	"version": "1.8.0",
+	"description": "Contains 18 themes for your VS Code editor. Semantic highlighting (light/dark themes).",
+	"version": "2.0.0",
 	"publisher": "BernardoPires",
 	"engines": {
 		"vscode": "^1.50.0"
@@ -68,6 +68,11 @@
 				"path": "./themes/MagicUser-Space-Night-color-theme.json"
 			},
 			{
+				"label": "MagicUser Staff",
+				"uiTheme": "vs-dark",
+				"path": "./themes/MagicUser-Staff-color-theme.json"
+			},
+			{
 				"label": "MagicUser Teal",
 				"uiTheme": "vs-dark",
 				"path": "./themes/MagicUser-Teal-color-theme.json"
@@ -76,6 +81,11 @@
 				"label": "MagicUser Teal Night",
 				"uiTheme": "vs-dark",
 				"path": "./themes/MagicUser-Teal-Night-color-theme.json"
+			},
+			{
+				"label": "MagicUser Veteran",
+				"uiTheme": "vs-dark",
+				"path": "./themes/MagicUser-Veteran-color-theme.json"
 			},
 			{
 				"label": "MagicUser Light",
