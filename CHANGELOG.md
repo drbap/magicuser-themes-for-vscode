@@ -1,5 +1,10 @@
 # Changelog
 
+## [2.0.1] - 2023-06-18
+Improvements:
+- MagicUser Veteran: remote background/foreground colors.
+- MagicUser Veteran: dropdown background color.
+
 ## [2.0.0] - 2023-06-17
 Added:
 - New themes: MagicUser Staff and MagicUser Veteran
