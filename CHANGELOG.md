@@ -1,5 +1,10 @@
 # Changelog
 
+## [2.0.2] - 2023-07-08
+Improvements:
+- MagicUser Path: background color, highlight foreground colors, badges and small adjustments.
+- MagicUser Staff: cursor color, highlight foreground colors and small adjustments.
+
 ## [2.0.1] - 2023-06-18
 Improvements:
 - MagicUser Veteran: remote background/foreground colors.
