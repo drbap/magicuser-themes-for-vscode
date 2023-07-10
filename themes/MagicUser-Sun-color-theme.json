@@ -156,7 +156,7 @@
 		"sideBarSectionHeader.foreground": "#000",
 		"sideBarTitle.foreground": "#000",
 		"statusBar.background": "#faf3bf",
-		"statusBar.debuggingBackground": "#db8ddb",
+		"statusBar.debuggingBackground": "#cf72ff",
 		"statusBar.foreground": "#000",
 		"statusBar.noFolderBackground": "#faf3bf",
 		"statusBarItem.errorBackground": "#c72e0f",
@@ -492,7 +492,7 @@
 		{
 			"scope": "heading.1.markdown entity.name.section.markdown, heading.2.markdown entity.name.section.markdown, heading.3.markdown entity.name.section.markdown, heading.4.markdown entity.name.section.markdown, heading.5.markdown entity.name.section.markdown, heading.6.markdown entity.name.section.markdown",
 			"settings": {
-				"foreground": "#007ff1"
+				"foreground": "#0048f1"
 			}
 		},
 		{
@@ -594,7 +594,7 @@
 		{
 			"scope": "entity.name.function, meta.function-call, support.function, keyword.other.special-method, meta.block-level, markup.changed.git_gutter",
 			"settings": {
-				"foreground": "#00ae00",
+				"foreground": "#00a300",
 				"fontStyle": "bold"
 			}
 		},
@@ -675,7 +675,7 @@
 				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#f18f00",
+				"foreground": "#db8800",
 				"fontStyle": "bold"
 			}
 		},
@@ -777,7 +777,7 @@
 				"meta.embedded.line.php"
 			],
 			"settings": {
-				"foreground": "#00ae00"
+				"foreground": "#00a300"
 			}
 		},
 		{
@@ -871,9 +871,9 @@
 		"class.defaultLibrary": "#ff8800",
 		"interface": "#ff8848",
 		"enum": "#00a3a3",
-		"function": "#00ae00",
-		"function.defaultLibrary": "#00ae00",
-		"method": "#00ae00",
+		"function": "#00a300",
+		"function.defaultLibrary": "#00a300",
+		"method": "#00a300",
 		"keyword": {
 			"foreground": "#c300f1",
 			"fontStyle": "bold"
