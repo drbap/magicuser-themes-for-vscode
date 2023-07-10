@@ -1,5 +1,19 @@
 # Changelog
 
+## [2.1.0] - 2023-07-10
+Added:
+
+New Themes:
+- MagicUser Wand Blue
+- MagicUser Wand Green
+- MagicUser Light Green
+- MagicUser Light Purple
+
+Improvements:
+- MagicUser light themes: new markdown headings color.
+- MagicUser Light Blue: indent guides background color.
+- MagicUser Sea, Sun and Neblina: statusBar debugging color.
+
 ## [2.0.2] - 2023-07-08
 Improvements:
 - MagicUser Path: background color, highlight foreground colors, badges and small adjustments.

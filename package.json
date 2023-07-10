@@ -1,8 +1,8 @@
 {
 	"name": "magicuser-color-themes",
 	"displayName": "MagicUser",
-	"description": "Contains 18 themes for your VS Code editor. Semantic highlighting (light/dark themes).",
-	"version": "2.0.2",
+	"description": "Contains 22 themes for your VS Code editor. Semantic highlighting (light/dark themes).",
+	"version": "2.1.0",
 	"publisher": "BernardoPires",
 	"engines": {
 		"vscode": "^1.50.0"
@@ -88,6 +88,16 @@
 				"path": "./themes/MagicUser-Veteran-color-theme.json"
 			},
 			{
+				"label": "MagicUser Wand Blue",
+				"uiTheme": "vs-dark",
+				"path": "./themes/MagicUser-Wand-Blue-color-theme.json"
+			},
+			{
+				"label": "MagicUser Wand Green",
+				"uiTheme": "vs-dark",
+				"path": "./themes/MagicUser-Wand-Green-color-theme.json"
+			},
+			{
 				"label": "MagicUser Light",
 				"uiTheme": "vs",
 				"path": "./themes/MagicUser-Light-color-theme.json"
@@ -101,6 +111,16 @@
 				"label": "MagicUser Light Gray",
 				"uiTheme": "vs",
 				"path": "./themes/MagicUser-Light-Gray-color-theme.json"
+			},
+			{
+				"label": "MagicUser Light Green",
+				"uiTheme": "vs",
+				"path": "./themes/MagicUser-Light-Green-color-theme.json"
+			},
+			{
+				"label": "MagicUser Light Purple",
+				"uiTheme": "vs",
+				"path": "./themes/MagicUser-Light-Purple-color-theme.json"
 			},
 			{
 				"label": "MagicUser Neblina",
