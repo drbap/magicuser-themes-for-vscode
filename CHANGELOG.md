@@ -1,5 +1,23 @@
 # Changelog
 
+## [3.0.0] - 2023-07-28
+Added:
+
+New Dark Themes:
+- MagicUser Veteran Blue
+- MagicUser Veteran Purple
+- MagicUser Wand Orange
+- MagicUser Wand Purple
+
+New Light Themes:
+- MagicUser Light Orange
+- MagicUser Wand Light
+
+Improvements:
+- Sidebar git colors (light themes - modified resources)
+- MagicUser Space and Space Night (new background color)
+- Small adjustments to MagicUser Veteran and MagicUser Space themes
+
 ## [2.1.0] - 2023-07-10
 Added:
 
