@@ -1,5 +1,25 @@
 # Changelog
 
+## [4.0.0] - 2023-08-17
+
+Improvements:
+
+Dark and Light Themes (28 themes):
+- Consistent input colors (active and hover).
+- Error colors (searchbar, tabs, outline).
+- Git ignored resources color.
+
+Light Themes
+- Git untracked resources color.
+
+Fixed:
+
+MagicUser Space Night:
+- Sidebar colors (dimmed).
+
+MagicUser Light Orange:
+- Find match color.
+
 ## [3.0.0] - 2023-07-28
 Added:
 
