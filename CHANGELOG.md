@@ -1,5 +1,10 @@
 # Changelog
 
+## [5.0.1] - 2023-08-30
+Improvements:
+- MagicUser Paladin Light - Line numbers and line highlight color.
+- MagicUser Talisman - remoteBackground color.
+
 ## [5.0.0] - 2023-08-30
 
 Added:
