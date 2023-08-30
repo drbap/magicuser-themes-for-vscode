@@ -1,8 +1,8 @@
 {
 	"name": "magicuser-color-themes",
 	"displayName": "MagicUser",
-	"description": "Contains 28 themes for your VS Code editor. Semantic highlighting (light/dark themes).",
-	"version": "4.0.0",
+	"description": "MagicUser themes. Contains 33 themes for your VS Code editor. Semantic highlighting (light/dark themes).",
+	"version": "5.0.0",
 	"publisher": "BernardoPires",
 	"engines": {
 		"vscode": "^1.50.0"
@@ -17,13 +17,13 @@
 	],
 	"keywords": [
 		"MagicUser",
+		"MagicUser Paladin",
 		"Light theme",
 		"Dark theme",
 		"Night theme",
 		"Light blue theme",
 		"Light gray theme",
-		"Professional theme",
-		"Professional light theme"
+		"Professional theme"
 	],
 	"contributes": {
 		"themes": [
@@ -31,6 +31,16 @@
 				"label": "MagicUser",
 				"uiTheme": "vs-dark",
 				"path": "./themes/MagicUser-color-theme.json"
+			},
+			{
+				"label": "MagicUser Paladin",
+				"uiTheme": "vs-dark",
+				"path": "./themes/MagicUser-Paladin-color-theme.json"
+			},
+			{
+				"label": "MagicUser Power",
+				"uiTheme": "vs-dark",
+				"path": "./themes/MagicUser-Power-color-theme.json"
 			},
 			{
 				"label": "MagicUser Night",
@@ -71,6 +81,11 @@
 				"label": "MagicUser Staff",
 				"uiTheme": "vs-dark",
 				"path": "./themes/MagicUser-Staff-color-theme.json"
+			},
+			{
+				"label": "MagicUser Talisman",
+				"uiTheme": "vs-dark",
+				"path": "./themes/MagicUser-Talisman-color-theme.json"
 			},
 			{
 				"label": "MagicUser Teal",
@@ -151,6 +166,16 @@
 				"label": "MagicUser Wand Light",
 				"uiTheme": "vs",
 				"path": "./themes/MagicUser-Wand-Light-color-theme.json"
+			},
+			{
+				"label": "MagicUser Specialist",
+				"uiTheme": "vs",
+				"path": "./themes/MagicUser-Specialist-color-theme.json"
+			},
+			{
+				"label": "MagicUser Paladin Light",
+				"uiTheme": "vs",
+				"path": "./themes/MagicUser-Paladin-Light-color-theme.json"
 			},
 			{
 				"label": "MagicUser Neblina",

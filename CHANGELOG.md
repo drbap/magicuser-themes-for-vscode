@@ -1,5 +1,23 @@
 # Changelog
 
+## [5.0.0] - 2023-08-30
+
+Added:
+
+New Dark Themes (3 themes):
+
+- MagicUser Paladin
+- MagicUser Power
+- MagicUser Talisman
+
+New Light Themes (2 themes):
+
+- MagicUser Paladin Light
+- MagicUser Specialist
+
+Improvements:
+- MagicUser Wand series - new badges color (4 dark themes).
+
 ## [4.0.0] - 2023-08-17
 
 Improvements:
