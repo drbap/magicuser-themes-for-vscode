@@ -1,8 +1,13 @@
 # Changelog
 
+## [5.1.0] - 2023-09-15
+Improvements:
+- MagicUser Paladin and Paladin Light - new color (cursor, tab borderTop and activityBar activeBorder).
+- Editor bracket match border color.
+
 ## [5.0.1] - 2023-08-30
 Improvements:
-- MagicUser Paladin Light - Line numbers and line highlight color.
+- MagicUser Paladin Light - line numbers and line highlight color.
 - MagicUser Talisman - remoteBackground color.
 
 ## [5.0.0] - 2023-08-30
