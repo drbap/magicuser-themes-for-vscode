@@ -1,5 +1,9 @@
 # Changelog
 
+## [5.2.0] - 2023-09-17
+Improvements:
+- MagicUser Paladin and Paladin Light - new color (cursors, active tab borderTop and activityBar activeBorder).
+
 ## [5.1.0] - 2023-09-15
 Improvements:
 - MagicUser Paladin and Paladin Light - new color (cursor, tab borderTop and activityBar activeBorder).
