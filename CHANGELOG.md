@@ -1,5 +1,9 @@
 # Changelog
 
+## [5.3.0] - 2023-09-29
+Improvements:
+- MagicUser Paladin and Paladin Light - background color, menu color, line numbers, sidebar indent guides color.
+
 ## [5.2.0] - 2023-09-17
 Improvements:
 - MagicUser Paladin and Paladin Light - new color (cursors, active tab borderTop and activityBar activeBorder).
