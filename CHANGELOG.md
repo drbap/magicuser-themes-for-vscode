@@ -1,5 +1,10 @@
 # Changelog
 
+## [5.4.0] - 2023-10-04
+Improvements:
+- MagicUser Paladin - cursor color and UI adjustments.
+- MagicUser Paladin Light - cursor color, background color and UI adjustments.
+
 ## [5.3.0] - 2023-09-29
 Improvements:
 - MagicUser Paladin and Paladin Light - background color, menu color, line numbers, sidebar indent guides color.
