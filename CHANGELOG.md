@@ -1,5 +1,11 @@
 # Changelog
 
+## [5.5.0] - 2023-10-06
+Improvements:
+- MagicUser Paladin - cursor color and line highlight background color.
+- MagicUser Paladin Light - cursor color and line highlight background color.
+- Improved editorGutter colors (added, modified and deleted background) - 33 themes
+
 ## [5.4.0] - 2023-10-04
 Improvements:
 - MagicUser Paladin - cursor color and UI adjustments.
