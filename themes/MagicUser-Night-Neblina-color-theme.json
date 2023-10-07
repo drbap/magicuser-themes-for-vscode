@@ -62,7 +62,7 @@
 		"editorGroupHeader.noTabsBackground": "#080808",
 		"editorGroupHeader.tabsBackground": "#080808",
 		"editorGutter.addedBackground": "#18c35088",
-		"editorGutter.deletedBackground": "#c3002888",
+		"editorGutter.deletedBackground": "#c30028cf",
 		"editorGutter.modifiedBackground": "#b9b52f88",
 		"editorHoverWidget.background": "#080808",
 		"editorHoverWidget.border": "#080808",
