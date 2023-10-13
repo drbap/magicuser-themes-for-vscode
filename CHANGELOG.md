@@ -1,5 +1,9 @@
 # Changelog
 
+## [6.0.0] - 2023-10-12
+Improvements:
+- Optimized light themes - 12 themes
+
 ## [5.5.0] - 2023-10-06
 Improvements:
 - MagicUser Paladin - cursor color and line highlight background color.
