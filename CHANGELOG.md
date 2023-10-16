@@ -1,5 +1,11 @@
 # Changelog
 
+## [7.0.0] - 2023-10-15
+Improvements:
+- Optimized themes - 33 themes
+- Reduced scope requests
+- Overall adjustments for syntax highlighting consistency (light and dark themes)
+
 ## [6.0.0] - 2023-10-12
 Improvements:
 - Optimized light themes - 12 themes

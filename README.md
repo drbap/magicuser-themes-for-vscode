@@ -1,4 +1,4 @@
-# ✨**MagicUser**✨ Themes for VS Code
+# ✨MagicUser✨ Themes for VS Code
 
 ![MagicUser themes](https://raw.githubusercontent.com/drbap/magicuser-themes-for-vscode/main/images/magicuser_themes_for_vscode.png)
 
@@ -13,9 +13,9 @@ It contains **21 dark themes** and **12 light themes** for day and night use.
 - **Variety of choices**: With 33 different themes to choose from, you can easily switch things up and keep your coding environment fresh and exciting. 
 
 
-## **Themes included**
+## Themes included
 
-### ✨ **Dark Themes** (21 Themes)
+### ✨ Dark Themes (21 Themes)
 
 - MagicUser
 - MagicUser Paladin
@@ -32,20 +32,20 @@ It contains **21 dark themes** and **12 light themes** for day and night use.
 - MagicUser Teal Night
 - MagicUser Talisman
 
-**MagicUser Veteran Themes**
+MagicUser Veteran Themes
 
 - MagicUser Veteran
 - MagicUser Veteran Blue
 - MagicUser Veteran Purple
 
-**MagicUser Wand Themes**
+MagicUser Wand Themes
 
 - MagicUser Wand Blue
 - MagicUser Wand Green
 - MagicUser Wand Orange
 - MagicUser Wand Purple
 
-### ✨ **Light Themes** (12 Themes)
+### ✨ Light Themes (12 Themes)
 
 - MagicUser Light
 - MagicUser Light Blue
