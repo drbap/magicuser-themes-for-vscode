@@ -1,5 +1,10 @@
 # Changelog
 
+## [7.1.0] - 2023-10-23
+Improvements:
+- MagicUser Paladin and Paladin Light (cursor color, line numbers and more).
+- Adjustment in css variables - 33 themes
+
 ## [7.0.0] - 2023-10-15
 Improvements:
 - Optimized themes - 33 themes
