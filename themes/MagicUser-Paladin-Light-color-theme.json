@@ -1,7 +1,7 @@
 {
 	"name": "MagicUser Paladin Light",
 	"colors": {
-		"activityBar.activeBorder": "#00cfff",
+		"activityBar.activeBorder": "#0072d3",
 		"activityBar.background": "#001833",
 		"activityBar.foreground": "#00cfff",
 		"activityBar.inactiveForeground": "#00a3ff48",
@@ -35,7 +35,7 @@
 		"dropdown.foreground": "#000",
 		"editor.background": "#fff",
 		"editor.findMatchBackground": "#ffff00cd",
-		"editor.findMatchBorder": "#00cfff",
+		"editor.findMatchBorder": "#72a8bf",
 		"editor.findMatchHighlightBackground": "#f100f120",
 		"editor.foreground": "#000000",
 		"editor.inactiveSelectionBackground": "#e5ebf1",
@@ -56,7 +56,7 @@
 		"editorBracketMatch.background": "#d372ff48",
 		"editorBracketMatch.border": "#d372ff88",
 		"editorCursor.background": "#000",
-		"editorCursor.foreground": "#00cfff",
+		"editorCursor.foreground": "#72a8bf",
 		"editorGroup.border": "#48487f",
 		"editorGroup.dropBackground": "#2f4878a3",
 		"editorGroupHeader.border": "#18181800",
@@ -71,8 +71,8 @@
 		"editorHoverWidget.statusBarBackground": "#e8e8e848",
 		"editorIndentGuide.activeBackground": "#d372ff",
 		"editorIndentGuide.background": "#00a3a348",
-		"editorLineNumber.activeForeground": "#0072d3",
-		"editorLineNumber.foreground": "#0072d348",
+		"editorLineNumber.activeForeground": "#72a8bf",
+		"editorLineNumber.foreground": "#72a8bf48",
 		"editorOverviewRuler.addedForeground": "#00ff00a3",
 		"editorOverviewRuler.bracketMatchForeground": "#d372ffa3",
 		"editorOverviewRuler.deletedForeground": "#ff0000a3",
@@ -170,7 +170,7 @@
 		"statusBarItem.remoteBackground": "#0072d3",
 		"statusBarItem.remoteForeground": "#f1f1f1",
 		"tab.activeBackground": "#fff",
-		"tab.activeBorderTop": "#00cfff",
+		"tab.activeBorderTop": "#0072d3",
 		"tab.activeForeground": "#000",
 		"tab.border": "#00000010",
 		"tab.inactiveBackground": "#f1f5ff",
@@ -616,7 +616,7 @@
 				"variable.css",
 				"variable.argument.css",
 				"variable.scss", 
-				"meta.definition.variable.scss",
+				"meta.definition.variable.scss"
 			],
 			"settings": {
 				"foreground": "#f12828"

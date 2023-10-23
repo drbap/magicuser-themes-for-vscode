@@ -482,7 +482,7 @@
 				"variable.css",
 				"variable.argument.css",
 				"variable.scss",
-				"meta.definition.variable.scss",
+				"meta.definition.variable.scss"
 			],
 			"settings": {
 				"foreground": "#f18282"

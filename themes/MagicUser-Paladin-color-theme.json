@@ -1,7 +1,7 @@
 {
 	"name": "MagicUser Paladin",
 	"colors": {
-		"activityBar.activeBorder": "#00cfff",
+		"activityBar.activeBorder": "#0072d3",
 		"activityBar.background": "#001833",
 		"activityBar.foreground": "#00cfff",
 		"activityBar.inactiveForeground": "#00a3ff48",
@@ -34,7 +34,7 @@
 		"dropdown.foreground": "#f1f1f1",
 		"editor.background": "#002248",
 		"editor.findMatchBackground": "#00000088",
-		"editor.findMatchBorder": "#00cfff",
+		"editor.findMatchBorder": "#72a8bf",
 		"editor.findMatchHighlightBackground": "#f100f153",
 		"editor.foreground": "#d8d8d8",
 		"editor.lineHighlightBackground": "#8fa5ff10",
@@ -54,7 +54,7 @@
 		"editorBracketMatch.background": "#d372ff48",
 		"editorBracketMatch.border": "#d372ff88",
 		"editorCursor.background": "#000000",
-		"editorCursor.foreground": "#00cfff",
+		"editorCursor.foreground": "#72a8bf",
 		"editorGroup.border": "#48487f",
 		"editorGroup.dropBackground": "#2f4878a3",
 		"editorGroupHeader.border": "#00112200",
@@ -68,8 +68,8 @@
 		"editorHoverWidget.statusBarBackground": "#001833",
 		"editorIndentGuide.activeBackground": "#d373ff88",
 		"editorIndentGuide.background": "#00a3a318",
-		"editorLineNumber.activeForeground": "#0072d3a3",
-		"editorLineNumber.foreground": "#0072d348",
+		"editorLineNumber.activeForeground": "#72a8bfa3",
+		"editorLineNumber.foreground": "#72a8bf33",
 		"editorOverviewRuler.addedForeground": "#00ff0088",
 		"editorOverviewRuler.bracketMatchForeground": "#d372ffa3",
 		"editorOverviewRuler.deletedForeground": "#ff000088",
@@ -150,7 +150,7 @@
 		"statusBar.noFolderBackground": "#001833",
 		"statusBarItem.remoteBackground": "#0072d3",
 		"statusBarItem.remoteForeground": "#f1f1f1",
-		"tab.activeBorderTop": "#00cfff",
+		"tab.activeBorderTop": "#0072d3",
 		"tab.activeForeground": "#cfcfcf",
 		"tab.inactiveBackground": "#001833",
 		"tab.lastPinnedBorder": "#007acf88",
@@ -488,7 +488,7 @@
 				"variable.css",
 				"variable.argument.css",
 				"variable.scss",
-				"meta.definition.variable.scss",
+				"meta.definition.variable.scss"
 			],
 			"settings": {
 				"foreground": "#f18282"
