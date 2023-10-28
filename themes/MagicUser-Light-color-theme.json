@@ -41,7 +41,7 @@
 		"editor.selectionBackground": "#0055f125",
 		"editor.selectionHighlightBackground": "#f100f120",
 		"editor.wordHighlightBackground": "#d8d8d800",
-		"editor.wordHighlightBorder": "#00a3a388",
+		"editor.wordHighlightBorder": "#cf00ff72",
 		"editor.wordHighlightStrongBackground": "#f100f128",
 		"editor.wordHighlightStrongBorder": "#f100f188",
 		"editorBracketHighlight.foreground1": "#0000f1",
@@ -307,7 +307,7 @@
 				"variable.parameter.js.jsx",
 				"variable.parameter.keyframe-list.css",
 				"variable.parameter",
-				"variable.scss", 
+				"variable.scss",
 				"variable"
 			],
 			"settings": {
@@ -608,7 +608,7 @@
 			"scope": [
 				"variable.css",
 				"variable.argument.css",
-				"variable.scss", 
+				"variable.scss",
 				"meta.definition.variable.scss"
 			],
 			"settings": {

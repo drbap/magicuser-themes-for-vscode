@@ -35,7 +35,7 @@
 		"dropdown.foreground": "#000",
 		"editor.background": "#fff",
 		"editor.findMatchBackground": "#ffff00cd",
-		"editor.findMatchBorder": "#72a8bf",
+		"editor.findMatchBorder": "#00bfff",
 		"editor.findMatchHighlightBackground": "#f100f120",
 		"editor.foreground": "#000000",
 		"editor.inactiveSelectionBackground": "#e5ebf1",
@@ -43,7 +43,7 @@
 		"editor.selectionBackground": "#0055f125",
 		"editor.selectionHighlightBackground": "#f100f120",
 		"editor.wordHighlightBackground": "#d8d8d800",
-		"editor.wordHighlightBorder": "#00a3a388",
+		"editor.wordHighlightBorder": "#cf00ff72",
 		"editor.wordHighlightStrongBackground": "#f100f128",
 		"editor.wordHighlightStrongBorder": "#f100f188",
 		"editorBracketHighlight.foreground1": "#0000f1",
@@ -56,7 +56,7 @@
 		"editorBracketMatch.background": "#d372ff48",
 		"editorBracketMatch.border": "#d372ff88",
 		"editorCursor.background": "#000",
-		"editorCursor.foreground": "#72a8bf",
+		"editorCursor.foreground": "#00bfff",
 		"editorGroup.border": "#48487f",
 		"editorGroup.dropBackground": "#2f4878a3",
 		"editorGroupHeader.border": "#18181800",
@@ -71,8 +71,8 @@
 		"editorHoverWidget.statusBarBackground": "#e8e8e848",
 		"editorIndentGuide.activeBackground": "#d372ff",
 		"editorIndentGuide.background": "#00a3a348",
-		"editorLineNumber.activeForeground": "#72a8bf",
-		"editorLineNumber.foreground": "#72a8bf48",
+		"editorLineNumber.activeForeground": "#0072d3",
+		"editorLineNumber.foreground": "#0072d348",
 		"editorOverviewRuler.addedForeground": "#00ff00a3",
 		"editorOverviewRuler.bracketMatchForeground": "#d372ffa3",
 		"editorOverviewRuler.deletedForeground": "#ff0000a3",
@@ -314,7 +314,7 @@
 				"variable.parameter.js.jsx",
 				"variable.parameter.keyframe-list.css",
 				"variable.parameter",
-				"variable.scss", 
+				"variable.scss",
 				"variable"
 			],
 			"settings": {
@@ -615,7 +615,7 @@
 			"scope": [
 				"variable.css",
 				"variable.argument.css",
-				"variable.scss", 
+				"variable.scss",
 				"meta.definition.variable.scss"
 			],
 			"settings": {
