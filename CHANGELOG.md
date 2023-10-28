@@ -1,5 +1,10 @@
 # Changelog
 
+## [7.2.0] - 2023-10-28
+Improvements:
+- MagicUser Paladin and Paladin Light adjustments.
+- Adjustments in editor.wordHighlightStrongBorder, word highlight and minimap highlight - 33 themes
+
 ## [7.1.0] - 2023-10-23
 Improvements:
 - MagicUser Paladin and Paladin Light (cursor color, line numbers and more).
