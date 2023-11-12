@@ -1,5 +1,29 @@
 # Changelog
 
+## [8.0.0] - 2023-11-12
+
+Added:
+
+New Dark Themes (2 themes):
+
+- MagicUser Camouflage
+- MagicUser Room Lamp
+
+New Light Themes (12 themes):
+
+- MagicUser Light - No Bold
+- MagicUser Light Blue - No Bold
+- MagicUser Light Gray - No Bold
+- MagicUser Light Green - No Bold
+- MagicUser Light Orange - No Bold
+- MagicUser Light Purple - No Bold
+- MagicUser Neblina - No Bold
+- MagicUser Sea - No Bold
+- MagicUser Sun - No Bold
+- MagicUser Specialist - No Bold
+- MagicUser Paladin Light - No Bold
+- MagicUser Wand Light - No Bold
+
 ## [7.2.0] - 2023-10-28
 Improvements:
 - MagicUser Paladin and Paladin Light adjustments.

@@ -1,8 +1,8 @@
 {
 	"name": "magicuser-color-themes",
 	"displayName": "MagicUser",
-	"description": "MagicUser themes. Contains 33 themes for your VS Code editor. Semantic highlighting (light/dark themes).",
-	"version": "7.2.0",
+	"description": "MagicUser themes. Contains 47 themes for your VS Code editor. Semantic highlighting (light/dark themes).",
+	"version": "8.0.0",
 	"publisher": "BernardoPires",
 	"engines": {
 		"vscode": "^1.50.0"
@@ -133,6 +133,16 @@
 				"path": "./themes/MagicUser-Wand-Purple-color-theme.json"
 			},
 			{
+				"label": "MagicUser Room Lamp",
+				"uiTheme": "vs-dark",
+				"path": "./themes/MagicUser-Room-Lamp-color-theme.json"
+			},
+			{
+				"label": "MagicUser Camouflage",
+				"uiTheme": "vs-dark",
+				"path": "./themes/MagicUser-Camouflage-color-theme.json"
+			},
+			{
 				"label": "MagicUser Light",
 				"uiTheme": "vs",
 				"path": "./themes/MagicUser-Light-color-theme.json"
@@ -191,6 +201,66 @@
 				"label": "MagicUser Sun",
 				"uiTheme": "vs",
 				"path": "./themes/MagicUser-Sun-color-theme.json"
+			},
+			{
+				"label": "MagicUser Light - No Bold",
+				"uiTheme": "vs",
+				"path": "./themes/MagicUser-Light-NB-color-theme.json"
+			},
+			{
+				"label": "MagicUser Light Blue - No Bold",
+				"uiTheme": "vs",
+				"path": "./themes/MagicUser-Light-Blue-NB-color-theme.json"
+			},
+			{
+				"label": "MagicUser Light Gray - No Bold",
+				"uiTheme": "vs",
+				"path": "./themes/MagicUser-Light-Gray-NB-color-theme.json"
+			},
+			{
+				"label": "MagicUser Light Green - No Bold",
+				"uiTheme": "vs",
+				"path": "./themes/MagicUser-Light-Green-NB-color-theme.json"
+			},
+			{
+				"label": "MagicUser Light Orange - No Bold",
+				"uiTheme": "vs",
+				"path": "./themes/MagicUser-Light-Orange-NB-color-theme.json"
+			},
+			{
+				"label": "MagicUser Light Purple - No Bold",
+				"uiTheme": "vs",
+				"path": "./themes/MagicUser-Light-Purple-NB-color-theme.json"
+			},
+			{
+				"label": "MagicUser Wand Light - No Bold",
+				"uiTheme": "vs",
+				"path": "./themes/MagicUser-Wand-Light-NB-color-theme.json"
+			},
+			{
+				"label": "MagicUser Specialist - No Bold",
+				"uiTheme": "vs",
+				"path": "./themes/MagicUser-Specialist-NB-color-theme.json"
+			},
+			{
+				"label": "MagicUser Paladin Light - No Bold",
+				"uiTheme": "vs",
+				"path": "./themes/MagicUser-Paladin-Light-NB-color-theme.json"
+			},
+			{
+				"label": "MagicUser Neblina - No Bold",
+				"uiTheme": "vs",
+				"path": "./themes/MagicUser-Neblina-NB-color-theme.json"
+			},
+			{
+				"label": "MagicUser Sea - No Bold",
+				"uiTheme": "vs",
+				"path": "./themes/MagicUser-Sea-NB-color-theme.json"
+			},
+			{
+				"label": "MagicUser Sun - No Bold",
+				"uiTheme": "vs",
+				"path": "./themes/MagicUser-Sun-NB-color-theme.json"
 			}
 		]
 	},
