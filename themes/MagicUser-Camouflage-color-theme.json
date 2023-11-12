@@ -80,7 +80,7 @@
 		"editorOverviewRuler.warningForeground": "#ff7f00cd",
 		"editorOverviewRuler.wordHighlightForeground": "#f1f1f100",
 		"editorOverviewRuler.wordHighlightStrongForeground": "#f1f1f100",
-		"editorStickyScrollHover.background": "#5278a828",
+		"editorStickyScrollHover.background": "#3a3f2c",
 		"editorSuggestWidget.background": "#1e2117",
 		"editorSuggestWidget.border": "#3a3f2c",
 		"editorSuggestWidget.focusHighlightForeground": "#00a3ff",
