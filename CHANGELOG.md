@@ -1,5 +1,11 @@
 # Changelog
 
+## [8.0.1] - 2023-11-12
+Improvement:
+- MagicUser Camouflage: StickyScroll hover color
+- MagicUser Room Lamp: StickyScroll hover color
+- fix readme
+
 ## [8.0.0] - 2023-11-12
 
 Added:

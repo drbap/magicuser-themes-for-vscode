@@ -10,9 +10,6 @@ It contains **23 dark themes** and **24 light themes** for day and night use.
 
 - **Semantic highlighting**.
 
-- **Variety of choices**: With 33 different themes to choose from, you can easily switch things up and keep your coding environment fresh and exciting. 
-
-
 ## Themes included
 
 ### ✨ Dark Themes (23 Themes)
