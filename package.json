@@ -1,8 +1,8 @@
 {
 	"name": "magicuser-color-themes",
 	"displayName": "MagicUser",
-	"description": "MagicUser themes. Contains 47 themes for your VS Code editor. Semantic highlighting (light/dark themes).",
-	"version": "8.0.1",
+	"description": "MagicUser themes. Contains 51 themes for your VS Code editor. Semantic highlighting (light/dark themes).",
+	"version": "8.1.0",
 	"publisher": "BernardoPires",
 	"engines": {
 		"vscode": "^1.50.0"
@@ -261,6 +261,26 @@
 				"label": "MagicUser Sun - No Bold",
 				"uiTheme": "vs",
 				"path": "./themes/MagicUser-Sun-NB-color-theme.json"
+			},
+			{
+				"label": "MagicUser Book",
+				"uiTheme": "vs",
+				"path": "./themes/MagicUser-Book-color-theme.json"
+			},
+			{
+				"label": "MagicUser Book - No Bold",
+				"uiTheme": "vs",
+				"path": "./themes/MagicUser-Book-NB-color-theme.json"
+			},
+			{
+				"label": "MagicUser Camouflage Light",
+				"uiTheme": "vs",
+				"path": "./themes/MagicUser-Camouflage-Light-color-theme.json"
+			},
+			{
+				"label": "MagicUser Camouflage Light - No Bold",
+				"uiTheme": "vs",
+				"path": "./themes/MagicUser-Camouflage-Light-NB-color-theme.json"
 			}
 		]
 	},

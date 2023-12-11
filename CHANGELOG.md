@@ -1,7 +1,18 @@
 # Changelog
 
+## [8.1.0] - 2023-12-10
+
+Added:
+
+New Light Themes:
+
+- MagicUser Book
+- MagicUser Book - No Bold
+- MagicUser Camouflage Light
+- MagicUser Camouflage Light - No Bold
+
 ## [8.0.1] - 2023-11-12
-Improvement:
+Improvements:
 - MagicUser Camouflage: StickyScroll hover color
 - MagicUser Room Lamp: StickyScroll hover color
 - fix readme
