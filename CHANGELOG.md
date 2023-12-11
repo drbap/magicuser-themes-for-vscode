@@ -1,5 +1,10 @@
 # Changelog
 
+## [8.1.1] - 2023-12-10
+
+Improvements:
+- MagicUser Book and Book NB (tab.activeForeground color)
+
 ## [8.1.0] - 2023-12-10
 
 Added:
