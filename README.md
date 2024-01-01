@@ -2,18 +2,21 @@
 
 ![MagicUser themes](https://raw.githubusercontent.com/drbap/magicuser-themes-for-vscode/main/images/magicuser_themes_for_vscode.png)
 
-✨ **MagicUser** is a collection of **51 themes** for Visual Studio Code designed to create a pleasant and productive environment for your coding activities.
+✨ **MagicUser** is a collection of **54 themes** for Visual Studio Code designed to create a pleasant and productive environment for your coding activities.
 
 - **Consistent syntax highlighting**.
 
 - **Semantic highlighting**.
 
+![MagicUser for VS Code](https://raw.githubusercontent.com/drbap/magicuser-themes-for-vscode/main/images/screenshot.png)
+
 ## Themes included
 
-### ✨ Dark Themes (23 Themes)
+### ✨ Dark Themes (24 Themes)
 
 - MagicUser
 - MagicUser Paladin
+- MagicUser Bases
 - MagicUser Power
 - MagicUser Night
 - MagicUser Night Neblina
@@ -42,8 +45,10 @@ MagicUser Wand Themes
 - MagicUser Wand Orange
 - MagicUser Wand Purple
 
-### ✨ Light Themes (28 Themes)
+### ✨ Light Themes (30 Themes)
 
+- MagicUser Day
+- MagicUser Day - No Bold
 - MagicUser Book
 - MagicUser Book - No Bold
 - MagicUser Camouflage
@@ -74,6 +79,20 @@ MagicUser Wand Themes
 - MagicUser Wand Light - No Bold
 
 I hope you find one or more themes that help bring new ideas, motivation and inspiration to your daily work/study.
+
+## Suggested Settings
+
+```JSON
+{
+  "editor.cursorWidth": 3,
+  "editor.fontLigatures": true,
+  "editor.cursorSmoothCaretAnimation": "on",
+  "workbench.tree.indent": 25,
+  "workbench.tree.renderIndentGuides": "always",
+  "editor.minimap.renderCharacters": false,
+  "editor.stickyScroll.enabled": true
+}
+```
 
 ## Installation
 

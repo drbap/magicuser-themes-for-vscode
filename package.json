@@ -1,8 +1,8 @@
 {
 	"name": "magicuser-color-themes",
 	"displayName": "MagicUser",
-	"description": "MagicUser themes. Contains 51 themes for your VS Code editor. Semantic highlighting (light/dark themes).",
-	"version": "8.1.1",
+	"description": "MagicUser themes. Contains 54 themes for your VS Code editor. Semantic highlighting (light/dark themes).",
+	"version": "8.2.0",
 	"publisher": "BernardoPires",
 	"engines": {
 		"vscode": "^1.50.0"
@@ -41,6 +41,11 @@
 				"label": "MagicUser Power",
 				"uiTheme": "vs-dark",
 				"path": "./themes/MagicUser-Power-color-theme.json"
+			},
+			{
+				"label": "MagicUser Bases",
+				"uiTheme": "vs-dark",
+				"path": "./themes/MagicUser-Bases-color-theme.json"
 			},
 			{
 				"label": "MagicUser Night",
@@ -186,6 +191,16 @@
 				"label": "MagicUser Paladin Light",
 				"uiTheme": "vs",
 				"path": "./themes/MagicUser-Paladin-Light-color-theme.json"
+			},
+			{
+				"label": "MagicUser Day",
+				"uiTheme": "vs",
+				"path": "./themes/MagicUser-Day-color-theme.json"
+			},
+			{
+				"label": "MagicUser Day - No Bold",
+				"uiTheme": "vs",
+				"path": "./themes/MagicUser-Day-NB-color-theme.json"
 			},
 			{
 				"label": "MagicUser Neblina",

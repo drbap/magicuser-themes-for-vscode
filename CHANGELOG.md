@@ -1,5 +1,16 @@
 # Changelog
 
+## [8.2.0] - 2024-01-01
+
+Added:
+
+New Dark Theme (1 theme):
+- MagicUser Bases
+
+New Light Themes (2 theme):
+- MagicUser Day
+- MagicUser Day - No Bold
+
 ## [8.1.1] - 2023-12-10
 
 Improvements:
