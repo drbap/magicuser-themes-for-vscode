@@ -1,8 +1,8 @@
 {
 	"name": "magicuser-color-themes",
 	"displayName": "MagicUser",
-	"description": "MagicUser themes. Contains 54 themes for your VS Code editor. Semantic highlighting (light/dark themes).",
-	"version": "8.2.0",
+	"description": "MagicUser themes. Contains 60 themes for your VS Code editor. Semantic highlighting (light/dark themes).",
+	"version": "8.3.0",
 	"publisher": "BernardoPires",
 	"engines": {
 		"vscode": "^1.50.0"
@@ -216,6 +216,36 @@
 				"label": "MagicUser Sun",
 				"uiTheme": "vs",
 				"path": "./themes/MagicUser-Sun-color-theme.json"
+			},
+			{
+				"label": "MagicUser Light - Dark Sidebar",
+				"uiTheme": "vs",
+				"path": "./themes/MagicUser-Light-Dark-Sidebar-color-theme.json"
+			},
+			{
+				"label": "MagicUser Light - Dark Sidebar - No Bold",
+				"uiTheme": "vs",
+				"path": "./themes/MagicUser-Light-Dark-Sidebar-NB-color-theme.json"
+			},
+			{
+				"label": "MagicUser Light Blue - Dark Sidebar",
+				"uiTheme": "vs",
+				"path": "./themes/MagicUser-Light-Blue-Dark-Sidebar-color-theme.json"
+			},
+			{
+				"label": "MagicUser Light Blue - Dark Sidebar - No Bold",
+				"uiTheme": "vs",
+				"path": "./themes/MagicUser-Light-Blue-Dark-Sidebar-NB-color-theme.json"
+			},
+			{
+				"label": "MagicUser Specialist - Dark Sidebar - No Bold",
+				"uiTheme": "vs",
+				"path": "./themes/MagicUser-Specialist-Dark-Sidebar-NB-color-theme.json"
+			},
+			{
+				"label": "MagicUser Specialist - Dark Sidebar",
+				"uiTheme": "vs",
+				"path": "./themes/MagicUser-Specialist-Dark-Sidebar-color-theme.json"
 			},
 			{
 				"label": "MagicUser Light - No Bold",

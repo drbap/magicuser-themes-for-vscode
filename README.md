@@ -2,7 +2,7 @@
 
 ![MagicUser themes](https://raw.githubusercontent.com/drbap/magicuser-themes-for-vscode/main/images/magicuser_themes_for_vscode.png)
 
-✨ **MagicUser** is a collection of **54 themes** for Visual Studio Code designed to create a pleasant and productive environment for your coding activities.
+✨ **MagicUser** is a collection of **60 themes** for Visual Studio Code designed to create a pleasant and productive environment for your coding activities.
 
 - **Consistent syntax highlighting**.
 
@@ -45,7 +45,7 @@ MagicUser Wand Themes
 - MagicUser Wand Orange
 - MagicUser Wand Purple
 
-### ✨ Light Themes (30 Themes)
+### ✨ Light Themes (36 Themes)
 
 - MagicUser Day
 - MagicUser Day - No Bold
@@ -57,6 +57,10 @@ MagicUser Wand Themes
 - MagicUser Light - No Bold
 - MagicUser Light Blue
 - MagicUser Light Blue - No Bold
+- MagicUser Light - Dark Sidebar
+- MagicUser Light - Dark Sidebar - No Bold
+- MagicUser Light Blue - Dark Sidebar
+- MagicUser Light Blue - Dark Sidebar - No Bold
 - MagicUser Light Gray
 - MagicUser Light Gray - No Bold
 - MagicUser Light Green
@@ -73,6 +77,8 @@ MagicUser Wand Themes
 - MagicUser Sun - No Bold
 - MagicUser Specialist
 - MagicUser Specialist - No Bold
+- MagicUser Specialist - Dark Sidebar
+- MagicUser Specialist - Dark Sidebar - No Bold
 - MagicUser Paladin Light
 - MagicUser Paladin Light - No Bold
 - MagicUser Wand Light

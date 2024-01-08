@@ -1,5 +1,20 @@
 # Changelog
 
+## [8.3.0] - 2024-01-07
+
+Added:
+
+New Light Themes (6 themes - Dark Sidebar):
+- MagicUser Light - Dark Sidebar
+- MagicUser Light - Dark Sidebar - No Bold
+- MagicUser Light Blue - Dark Sidebar
+- MagicUser Light Blue - Dark Sidebar - No Bold
+- MagicUser Specialist - Dark Sidebar
+- MagicUser Specialist - Dark Sidebar - No Bold
+
+Improvements:
+- Git decoration color renamed/modified resources color adjustment (all light themes)
+
 ## [8.2.0] - 2024-01-01
 
 Added:
@@ -7,7 +22,7 @@ Added:
 New Dark Theme (1 theme):
 - MagicUser Bases
 
-New Light Themes (2 theme):
+New Light Themes (2 themes):
 - MagicUser Day
 - MagicUser Day - No Bold
 
