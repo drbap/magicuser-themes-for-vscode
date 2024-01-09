@@ -1,5 +1,12 @@
 # Changelog
 
+## [8.3.1] - 2024-01-09
+
+Improvements:
+
+- sideBar.dropBackground color (6 light themes with dark sidebar added in v8.3.0)
+- list drop background color adjustment (6 light themes with dark sidebar)
+
 ## [8.3.0] - 2024-01-07
 
 Added:
