@@ -1,5 +1,13 @@
 # Changelog
 
+## [8.4.0] - 2024-02-17
+
+Improvements:
+
+- Input caret color (60 themes)
+- Theme background ajustments (MagicUser Paladin)
+- Small overall theme adjustments
+
 ## [8.3.1] - 2024-01-09
 
 Improvements:
