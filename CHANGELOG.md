@@ -1,5 +1,14 @@
 # Changelog
 
+## [8.5.0] - 2024-03-24
+
+Improvements:
+
+- Input caret color adjustments (MagicUser Light themes).
+- MagicUser Day themes - input foreground, caret, selection and minimap selection colors.
+- MagicUser Book themes - input foreground, caret, selection and minimap selection colors.
+- MagicUser Wand Light themes - input foreground, caret, selection and minimap selection colors.
+
 ## [8.4.0] - 2024-02-17
 
 Improvements:
