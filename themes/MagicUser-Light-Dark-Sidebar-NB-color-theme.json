@@ -102,7 +102,7 @@
 		"icon.foreground": "#cfcfcf",
 		"input.background": "#fff",
 		"input.border": "#d8d8d872",
-		"input.foreground": "#f100f1",
+		"input.foreground": "#cf00cf",
 		"input.placeholderForeground": "#787878",
 		"inputOption.activeBackground": "#cfe5ff",
 		"inputOption.activeBorder": "#0072d3",
