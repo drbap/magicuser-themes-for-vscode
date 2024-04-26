@@ -1,5 +1,12 @@
 # Changelog
 
+## [8.5.1] - 2024-04-26
+
+Improvements:
+
+- MagicUser Sun and Sea themes adjustments (cursor color, input color, StickyScroll and other adjustments).
+- MagicUser Paladin Light (cursor, line highlight background color).
+
 ## [8.5.0] - 2024-03-24
 
 Improvements:
