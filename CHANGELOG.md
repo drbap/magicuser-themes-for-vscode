@@ -1,5 +1,10 @@
 # Changelog
 
+## [8.5.2] - 2024-05-01
+Improvements:
+
+- MagicUser Light themes - semantic highlighting adjustment (36 themes).
+
 ## [8.5.1] - 2024-04-26
 
 Improvements:
