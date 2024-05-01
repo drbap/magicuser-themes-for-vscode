@@ -655,9 +655,9 @@
 	],
 	"semanticHighlighting": true,
 	"semanticTokenColors": {
-		"namespace": "#00cfcf",
-		"type": "#00cfcf",
-		"type.defaultLibrary": "#00cfcf",
+		"namespace": "#00a3a3",
+		"type": "#00a3a3",
+		"type.defaultLibrary": "#00a3a3",
 		"struct": "#f100f1",
 		"class": "#f18800",
 		"class.defaultLibrary": "#f18800",
@@ -668,16 +668,16 @@
 		"method": "#00a300",
 		"keyword": {
 			"foreground": "#c300f1",
-			"fontStyle": ""
+			"fontStyle": "bold"
 		},
 		"operator": {
 			"foreground": "#c300f1",
-			"fontStyle": ""
+			"fontStyle": "bold"
 		},
 		"string": "#0000f1",
 		"regexp": {
 			"foreground": "#78c121",
-			"fontStyle": ""
+			"fontStyle": "bold"
 		},
 		"comment": {
 			"foreground": "#a3a3a3",
@@ -685,7 +685,7 @@
 		},
 		"number": {
 			"foreground": "#f18800",
-			"fontStyle": ""
+			"fontStyle": "bold"
 		},
 		"macro": "#009797",
 		"variable": "#000",
@@ -693,27 +693,27 @@
 		"variable.readonly": "#0072d3",
 		"variable.defaultLibrary": {
 			"foreground": "#000088",
-			"fontStyle": "italic"
+			"fontStyle": "italic bold"
 		},
 		"parameter": {
 			"foreground": "#828200",
-			"fontStyle": ""
+			"fontStyle": "bold"
 		},
 		"parameter.declaration": {
 			"foreground": "#828200",
-			"fontStyle": ""
+			"fontStyle": "bold"
 		},
 		"property": "#000",
 		"property.declaration": "#000",
 		"property.readonly.defaultLibrary": {
 			"foreground": "#0048a3",
-			"fontStyle": ""
+			"fontStyle": "bold"
 		},
 		"property.defaultLibrary": {
 			"foreground": "#0048a3",
-			"fontStyle": ""
+			"fontStyle": "bold"
 		},
-		"enumMember": "#00b3b3",
+		"enumMember": "#00a3a3",
 		"event": "#00a3a3"
 	}
 }

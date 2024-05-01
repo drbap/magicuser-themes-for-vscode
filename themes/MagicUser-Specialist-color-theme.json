@@ -773,9 +773,9 @@
 	],
 	"semanticHighlighting": true,
 	"semanticTokenColors": {
-		"namespace": "#00cfcf",
-		"type": "#00cfcf",
-		"type.defaultLibrary": "#00cfcf",
+		"namespace": "#00a3a3",
+		"type": "#00a3a3",
+		"type.defaultLibrary": "#00a3a3",
 		"struct": "#f100f1",
 		"class": "#f18800",
 		"class.defaultLibrary": "#f18800",
@@ -831,7 +831,7 @@
 			"foreground": "#0048a3",
 			"fontStyle": "bold"
 		},
-		"enumMember": "#00b3b3",
+		"enumMember": "#00a3a3",
 		"event": "#00a3a3"
 	}
 }
